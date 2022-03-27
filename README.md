@@ -1,16 +1,25 @@
-### Hi there 👋
+ 
+  -👋Hi there! I'm Giddyspurz.
 
-<!--
-**Giddyspurz/Giddyspurz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
+ 
+- I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
+    
+    *Python
+    
+    *C/C++
+    
+    *Bash Shell Scripting
+    
+    *Java
+    
+- 📫 How to reach me:
+ 
+    https://twitter.com/gd101spr3
+    
+    https://t.me/Giddyspurz
+    
+    iamroot2005@protonmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

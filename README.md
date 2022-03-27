@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
  
-- I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
+- 👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
 
 - 🌱 I’m currently learning:
     

@@ -11,8 +11,6 @@
     
     *C/C++
     
-    *Bash Shell Scripting
-    
     *Java
     
 - 📫 How to reach me:

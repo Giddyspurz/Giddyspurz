@@ -13,10 +13,7 @@
     ---> Java
     
  - 📫 How to reach me:
-```
-    https://twitter.com/gd101spr3
+ 
+  <a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
+ <a href="https://t.me/Giddyspurz" target="blank"><img src="https://img.shields.io/badge/%40Giddyspurz-Telegram-blue" alt="@Giddyspurz" />
     
-    https://t.me/Giddyspurz
-   
-    iamroot2005@protonmail.com
-```

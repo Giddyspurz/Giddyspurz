@@ -13,7 +13,7 @@
     ---> Java
     
  - 📫 How to reach me:
- ```bash
+```
     https://twitter.com/gd101spr3
     
     https://t.me/Giddyspurz

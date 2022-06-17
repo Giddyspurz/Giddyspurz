@@ -6,11 +6,11 @@
 
 ###  - 🌱 I’m currently learning:
     
-    --->Python
+    ---> Python
     
-    --->C/C++
+    ---> C/C++
     
-    --->Java
+    ---> Java
     
 ### - 📫 How to reach me:
  ```bash

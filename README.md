@@ -6,11 +6,11 @@
 
  - 🌱 I’m currently learning:
     
-    ---> Python
-    
-    ---> C/C++
-    
-    ---> Java
+   |---> Python
+   |
+   |---> C/C++
+   |
+   |---> Java
     
  - 📫 How to reach me:
  

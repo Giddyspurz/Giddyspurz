@@ -11,6 +11,8 @@
    |---> C/C++  <br>
    |<br>
    |---> Java  <br>
+   |<br>
+   |---> Bash <br>
     
  - 📫 How to reach me:
  

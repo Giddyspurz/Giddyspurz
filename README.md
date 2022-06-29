@@ -7,7 +7,7 @@
 👯 Freelance Penetration Tester.<br>
 🌱 I’m currently learning:<br>
 </p>    
-<p align="left">
+<p align="centre">
          -Python <br>
          -C/C++ <br>  
          -Java <br> 

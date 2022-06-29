@@ -2,9 +2,9 @@
 <h2 align="left">About Me:</h2>
 <br>
 <p align="left">
-🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
-👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
-🌱 I’m currently learning:
+🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.<br>
+👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.<br>
+🌱 I’m currently learning:<br>
 </p>    
    |---> Python <br>
    | <br>

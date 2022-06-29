@@ -1,6 +1,6 @@
 <h1 align="centre">👋Hi there! I'm Giddyspurz.</h1>
 <br>
-## About Me:
+<h2 align="left">About Me:</h2>
 <br>
  - 🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
  

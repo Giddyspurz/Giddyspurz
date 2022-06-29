@@ -3,7 +3,7 @@
 <br>
 <p align="left">
 👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.<br><br>
-🔭 I’m currently working on <b>deep research of various vulns that affect Web applications such as RCE,OS Command Injection exploits.</b><br><br>
+🔭 I’m currently working on<b>deep research of various vulns that affect Web applications such as RCE,OS Command Injection exploits.</b><br><br>
 👯 Freelance Penetration Tester.<br><br>
 🌱 I’m currently learning: <b>Full Stack Engineering at ALX.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>

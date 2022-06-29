@@ -1,12 +1,11 @@
 <h1 align="centre">👋Hi there! I'm Giddyspurz.</h1>
-<br>
 <h2 align="left">About Me:</h2>
 <br>
- - 🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
+🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE exploits.
  
- - 👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
+👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.
 
- - 🌱 I’m currently learning:
+🌱 I’m currently learning:
     
    |---> Python <br>
    | <br>
@@ -16,12 +15,7 @@
    |<br>
    |---> Bash <br>
     
-<h3 align="left">📫 How to reach me:</h3>
-<br>
-<align="left"><a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
-<align="left"><a href="https://t.me/Giddyspurz" target="blank"><img src="https://img.shields.io/badge/%40Giddyspurz-Telegram-blue" alt="@Giddyspurz" />  
-<br>
-<h4 align="left">Streaks and Stats</h4>
+<h3 align=left>Streaks and Stats:</h3>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giddyspurz&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 
@@ -29,3 +23,8 @@
 
 </p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyspurz&theme=nord" alt="Giddyspurz's Languages"> </p>
+<br>
+<h4 align="left">📫 How to reach me:</h4>
+
+<align="left"><a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
+<align="left"><a href="https://t.me/Giddyspurz" target="blank"><img src="https://img.shields.io/badge/%40Giddyspurz-Telegram-blue" alt="@Giddyspurz" />  

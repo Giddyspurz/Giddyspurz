@@ -22,6 +22,7 @@
 
 <h2 align="left">📫 How to reach me:</h2>
 <p align="left">
-<a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
 <a href="https://t.me/Giddyspurz" target="blank"><img src="https://img.shields.io/badge/%40Giddyspurz-Telegram-blue" alt="@Giddyspurz" />  
  </p>
+<a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
+

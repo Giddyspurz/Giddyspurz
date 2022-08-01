@@ -9,6 +9,13 @@
 🌱 I’m currently learning: <b>Full Stack Software Engineering at ALX.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>
    
+<br>
+<h2 align="left">🏆 Github Trophies:</h3>
+	<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=Giddyspurz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+</p>
+</br>
+   
 <h2 align=left>Streaks and Stats:</h2>
 <br>
 <p align="left">

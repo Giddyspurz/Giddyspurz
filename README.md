@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://giddyspurz.github.io">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasherezade&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giddyspurz&theme=dark" />
 </a>
 <br/>
 

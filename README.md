@@ -9,6 +9,8 @@
 🌱 I’m currently learning: <b>Full Stack Software Engineering.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>
 
+---
+	
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://giddyspurz.github.io">
@@ -32,6 +34,8 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=Giddyspurz&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
 </br>
+
+---
    
 <h2 align="left">📫 How to reach me:</h2>
 <p align="left">

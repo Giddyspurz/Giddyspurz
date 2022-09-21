@@ -8,7 +8,24 @@
 👯 Freelance Penetration Tester.<br><br>
 🌱 I’m currently learning: <b>Full Stack Software Engineering.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>
-   
+
+#### &#x1f4c8; My GitHub Stats
+
+<a href="https://giddyspurz.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giddyspurz&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://giddyspurz.gihub.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyspurz&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://giddyspurz.github.io">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasherezade&theme=dark" />
+</a>
+<br/>
+
+---
+	
 <br>
 <h2 align="left">🏆 Github Trophies:</h3>
 	<p align="center">
@@ -16,20 +33,10 @@
 </p>
 </br>
    
-<h2 align=left>Streaks and Stats:</h2>
-<br>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giddyspurz&amp;theme=nord" alt="GitHub Streaks" width="49%" />
-
-   <img src="https://github-readme-stats.vercel.app/api?username=Giddyspurz&show_icons=true&theme=nord" alt="GitHub Stats" width="49%" />
-
-</p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giddyspurz&theme=nord" alt="Giddyspurz's Languages"> </p>
-<br>
-
 <h2 align="left">📫 How to reach me:</h2>
 <p align="left">
 <a href="https://t.me/Giddyspurz" target="blank"><img src="https://img.shields.io/badge/%40Giddyspurz-Telegram-blue" alt="@Giddyspurz" />  
  </p>
-<a href="https://twitter.com/gd101spr3" target="blank"><img src="https://img.shields.io/twitter/follow/gd101spr3?logo=twitter&style=social"    alt="@gd101spr3"/> <br>
-
+<a href="https://twitter.com/gd101spr3">
+  <img src="https://img.shields.io/twitter/follow/gd101spr3?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>

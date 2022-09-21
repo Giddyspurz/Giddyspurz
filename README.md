@@ -9,8 +9,6 @@
 🌱 I’m currently learning: <b>Full Stack Software Engineering.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>
 
----
-	
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://giddyspurz.github.io">

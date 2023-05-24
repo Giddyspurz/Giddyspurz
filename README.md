@@ -6,7 +6,6 @@
 👀 I'm a Web Application Security Engineer, doing bug bounty hunting and playing ctf's at night.<br><br>
 🔭 I’m currently working on deep research of various vulns that affect Web applications such as RCE,OS Command Injection exploits.<br><br>
 👯 Freelance Penetration Tester.<br><br>
-🌱 I’m currently learning: <b>Full Stack Software Engineering.</b><br><br>
 💬 Ask me about Web App Security and Shell programming :).<br><br>
 
 #### &#x1f4c8; My GitHub Stats
